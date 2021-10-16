@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpendableDirectory</string>
+    <string name="click_to_expand">Click to expand</string>
+    <string name="click_to_collapse">Click to collapse</string>
+</resources>
